@@ -24,7 +24,11 @@ namespace PaymentsProgect
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Формирование отчета в Excell
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ReportButton_Click(object sender, RoutedEventArgs e)
         {
 
